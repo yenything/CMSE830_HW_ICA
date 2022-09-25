@@ -1,3 +1,5 @@
+py -m pip install -r requirements.txt
+
 import seaborn as sns
 import plotly.express as px
 import streamlit as st
