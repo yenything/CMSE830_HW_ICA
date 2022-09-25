@@ -1,4 +1,4 @@
-py -m pip install -r requirements.txt
+py -m pip freeze > requirements.txt
 
 import seaborn as sns
 import plotly.express as px
